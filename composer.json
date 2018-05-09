@@ -1,0 +1,19 @@
+{
+    "name": "lyc/hello",
+    "description": "aaaa",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "vincent",
+            "email": "372557286@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hello\\": "src/"
+        }
+    }
+}
+
