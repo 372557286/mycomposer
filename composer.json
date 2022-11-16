@@ -1,19 +1,17 @@
 {
-    "name": "lyc/hello",
-    "description": "aaaa",
+    "name": "vincent/mycomposer",
+    "description": "this is a test package",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "vincent",
-            "email": "372557286@qq.com"
-        }
-    ],
-    "minimum-stability": "dev",
-    "require": {},
     "autoload": {
         "psr-4": {
-            "Hello\\": "src/"
+            "Vincent\\Mycomposer\\": "src/"
         }
-    }
+    },
+    "authors": [
+        {
+            "name": "vincent"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
 }
-
