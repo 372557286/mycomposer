@@ -1,15 +1,15 @@
 {
-    "name": "vincent/mycomposer",
+    "name": "372557286/mycomposer",
     "description": "this is a test package",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Vincent\\Mycomposer\\": "src/"
+            "372557286\\Mycomposer\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "vincentjfkdjfkdj"
+            "name": "372557286"
         }
     ],
     "minimum-stability": "stable",
